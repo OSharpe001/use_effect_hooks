@@ -5,13 +5,15 @@
 }
 
 body {
-  background-color: rgba(240, 128, 128, 0.6);
+  /* background-color: rgba(240, 128, 128, 0.6); */
+  background-color: rgba(128, 216, 240, 0.6);
   margin: 0;
   padding: 0;
 }
 
 #root {
   color: rgba(45, 25, 45, 0.75);
+  /* background-color: linear-gradient(to right, rgba(128, 216, 240, 0.6), rgba(128, 128, 240, 0.6)); */
   display: flex;
   flex-direction: column;
   justify-content: center;
